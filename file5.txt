@@ -1,2 +1,4 @@
 My first message for 5225
 5
+My second message for 5225
+10
